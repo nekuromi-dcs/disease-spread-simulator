@@ -1,0 +1,8 @@
+{
+  "name": "Remix Spatial SIRVD Epidemic Simulator",
+  "description": "Spatial disease propagation simulator combining cellular automata, spatially distributed SIRVD compartmental modeling, geographic environmental modifiers, transportation networks, and intervention policy analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
